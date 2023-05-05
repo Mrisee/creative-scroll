@@ -15,7 +15,7 @@ small landing whith parallax effect when scrolling
 Main Theme
 ![](/screens/1.png)
 
-Second Lite Theme
+scrolling
 ![](/screens/2.png)
 
 
